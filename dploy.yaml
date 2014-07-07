@@ -1,0 +1,33 @@
+dev:
+    scheme: ftp
+    host: ftp.kristdev.com
+    port: 21
+    user: kristdev
+    pass: temporary@43321
+    check: true
+        exclude: ["dploy.yaml", "urbanbeautycm.sublime-project", "urbanbeautycm.sublime-workspace", "composer.json", "composer.lock", ".bowerrc", "bower.json"]
+
+    path:
+        remote: public_html/mproject/files/urbanbeautycm/
+
+stage:
+    scheme: ftp
+    host: ftp.my-stage-server.com
+    port: 21
+    user: user
+    pass: password
+    check: true
+    path:
+        local: release/
+        remote: public_html/
+
+live:
+    scheme: ftp
+    host: ftp.my-live-server.com
+    port: 21
+    user: user
+    pass: password
+    check: true
+    path:
+        local: release/
+        remote: public_html/

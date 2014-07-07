@@ -1,0 +1,14 @@
+{
+    "name": "SEMPAI/urbanbeautycm",
+    "require": {
+        "codeigniter/hmvc_xajax_ci": "dev-master",
+        "phpmailer/phpmailer": "dev-master",
+        "ghunti/highcharts-php": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "kristdev",
+            "email": "pambeaba@yahoo.fr"
+        }
+    ]
+}
