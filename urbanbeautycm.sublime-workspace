@@ -251,7 +251,7 @@
 			"file": "dploy.yaml",
 			"settings":
 			{
-				"buffer_size": 740,
+				"buffer_size": 716,
 				"line_ending": "Unix"
 			}
 		}
@@ -590,15 +590,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 740,
+						"buffer_size": 716,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								279,
-								279
+								350,
+								350
 							]
 						],
 						"settings":
