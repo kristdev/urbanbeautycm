@@ -1182,44 +1182,44 @@ document.getElementById('pagestyle').setAttribute('href', sheet);
 ================================================== --> 
 
 <!-- Placed at the end of the document so the pages load faster --> 
-<script type="text/javascript" src="assets/js/jquery/1.8.3/jquery.js"></script> 
-<script src="assets/bootstrap/js/bootstrap.min.js"></script> 
+<script type="text/javascript" src="<?php echo base_url(); ?>assets/jquery/dist/jquery.js"></script> 
+<script src="<?php echo base_url(); ?>assets/bootstrap/dist/js/bootstrap.min.js"></script> 
 
 <!-- include jqueryCycle plugin --> 
-<script src="assets/js/jquery.cycle2.min.js"></script> 
+<script src="<?php echo base_url(); ?>assets/jquery-cycle2/build/jquery.cycle2.min.js"></script> 
 
 <!-- include easing plugin --> 
-<script src="assets/js/jquery.easing.1.3.js"></script> 
+<script src="<?php echo base_url(); ?>assets/js/jquery.easing.1.3.js"></script> 
 
 <!-- include  parallax plugin --> 
-<script type="text/javascript"  src="assets/js/jquery.parallax-1.1.js"></script> 
+<script type="text/javascript"  src="<?php echo base_url(); ?>assets/js/jquery.parallax-1.1.js"></script> 
 
 <!-- optionally include helper plugins --> 
-<script type="text/javascript"  src="assets/js/helper-plugins/jquery.mousewheel.min.js"></script> 
+<script type="text/javascript"  src="<?php echo base_url(); ?>assets/jquery-mousewheel/jquery.mousewheel.min.js"></script> 
 
 <!-- include mCustomScrollbar plugin //Custom Scrollbar  --> 
 
-<script type="text/javascript" src="assets/js/jquery.mCustomScrollbar.js"></script> 
+<script type="text/javascript" src="<?php echo base_url(); ?>assets/mcustom-scrollbar/jquery.mCustomScrollbar.js"></script> 
 
 <!-- include checkRadio plugin //Custom check & Radio  --> 
-<script type="text/javascript" src="assets/js/ion-checkRadio/ion.checkRadio.min.js"></script> 
+<script type="text/javascript" src="<?php echo base_url(); ?>assets/ion-checkRadio/js/ion.checkRadio.min.js"></script> 
 
 <!-- include grid.js // for equal Div height  --> 
-<script src="assets/js/grids.js"></script> 
+<script src="<?php echo base_url(); ?>assets/js/grids.js"></script> 
 
 <!-- include carousel slider plugin  --> 
-<script src="assets/js/owl.carousel.min.js"></script> 
+<script src="<?php echo base_url(); ?>assets/owlcarousel/owl-carousel/owl.carousel.min.js"></script> 
 
 <!-- jQuery minimalect // custom select   --> 
-<script src="assets/js/jquery.minimalect.min.js"></script> 
+<script src="<?php echo base_url(); ?>assets/js/jquery.minimalect.min.js"></script> 
 
 <!-- include touchspin.js // touch friendly input spinner component   --> 
-<script src="assets/js/bootstrap.touchspin.js"></script> 
+<script src="<?php echo base_url(); ?>assets/js/bootstrap.touchspin.js"></script> 
 
 <!-- include custom script for only homepage  --> 
-<script src="assets/js/home.js"></script> 
+<script src="<?php echo base_url(); ?>assets/js/home.js"></script> 
 <!-- include custom script for site  --> 
-<script src="assets/js/script.js"></script>
+<script src="<?php echo base_url(); ?>assets/js/script.js"></script>
 <script>
 
 </script>

@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"owl",
+				"owl-carousel"
+			],
+			[
 				"em",
 				"Email"
 			],
@@ -248,11 +252,35 @@
 	"buffers":
 	[
 		{
-			"file": "dploy.yaml",
+			"file": "application/modules/home/controllers/home.php",
 			"settings":
 			{
-				"buffer_size": 716,
-				"line_ending": "Unix"
+				"buffer_size": 309,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/config/autoload.php",
+			"settings":
+			{
+				"buffer_size": 3093,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/config/routes.php",
+			"settings":
+			{
+				"buffer_size": 1540,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/modules/home/views/homepage.php",
+			"settings":
+			{
+				"buffer_size": 66196,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -293,6 +321,7 @@
 	},
 	"file_history":
 	[
+		"/D/wamp/www/urbanbeautycm/dploy.yaml",
 		"/D/wamp/www/urbanbeautycm/.bowerrc",
 		"/D/wamp/www/kdmobil/applications/onworking/config/config.php",
 		"/D/wamp/www/kdmobil/applications/office/config/config.php",
@@ -419,8 +448,7 @@
 		"/C/Users/SEMPAI/Desktop/hosts",
 		"/C/wamp/www/kdmobil/index.php",
 		"/C/wamp/www/kdmobil/application/backend/modules/dashboard/controllers/dashboard.php",
-		"/C/wamp/www/kdmobil/application/backend/config/config.php",
-		"/C/wamp/www/kdmobil/application/backend/modules/dashboard/views/dashboardpage.php"
+		"/C/wamp/www/kdmobil/application/backend/config/config.php"
 	],
 	"find":
 	{
@@ -438,6 +466,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"images",
 			"setchar",
 			"src",
 			"register",
@@ -538,6 +567,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"<?php echo base_url(); ?>assets/img/images",
 			"fa-folder-open",
 			"]",
 			"[",
@@ -586,30 +616,116 @@
 			[
 				{
 					"buffer": 0,
-					"file": "dploy.yaml",
+					"file": "application/modules/home/controllers/home.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 716,
+						"buffer_size": 309,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								350,
-								350
+								243,
+								243
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/YAML/YAML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true,
-							"word_wrap": true
+							"syntax": "Packages/PHP/PHP.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "application/config/autoload.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3093,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1935,
+								1935
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1188.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "application/config/routes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1540,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1430,
+								1430
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 660.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "application/modules/home/views/homepage.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 66196,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								65603,
+								65603
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 26672.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -634,6 +750,12 @@
 				0,
 				1,
 				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
 			]
 		],
 		"cols":
@@ -644,6 +766,7 @@
 		"rows":
 		[
 			0.0,
+			0.5,
 			1.0
 		]
 	},
@@ -651,7 +774,7 @@
 	"project": "urbanbeautycm.sublime-project",
 	"replace":
 	{
-		"height": 64.0
+		"height": 70.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -685,7 +808,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 164.0,
+	"side_bar_width": 229.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
