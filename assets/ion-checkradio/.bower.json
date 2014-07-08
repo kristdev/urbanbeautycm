@@ -1,0 +1,14 @@
+{
+  "name": "ion-checkradio",
+  "_cacheHeaders": {
+    "ETag": "\"0-9fe2-53608d26\"",
+    "Last-Modified": "Wed, 30 Apr 2014 05:41:58 GMT",
+    "Content-Length": "40930",
+    "Content-Type": "application/zip"
+  },
+  "_release": "e-tag:0-9fe2-53",
+  "_source": "http://ionden.com/a/plugins/ion.checkRadio/ion.checkRadio-1.1.0.zip",
+  "_target": "*",
+  "_originalSource": "http://ionden.com/a/plugins/ion.checkRadio/ion.checkRadio-1.1.0.zip",
+  "_direct": true
+}
