@@ -1211,10 +1211,10 @@ document.getElementById('pagestyle').setAttribute('href', sheet);
 <script src="<?php echo base_url(); ?>assets/owlcarousel/owl-carousel/owl.carousel.min.js"></script> 
 
 <!-- jQuery minimalect // custom select   --> 
-<script src="<?php echo base_url(); ?>assets/js/jquery.minimalect.min.js"></script> 
+<script src="<?php echo base_url(); ?>assets/minimalect/jquery.minimalect.min.js"></script> 
 
 <!-- include touchspin.js // touch friendly input spinner component   --> 
-<script src="<?php echo base_url(); ?>assets/js/bootstrap.touchspin.js"></script> 
+<script src="<?php echo base_url(); ?>assets/bootstrap-touchspin/dist/bootstrap.touchspin.js"></script> 
 
 <!-- include custom script for only homepage  --> 
 <script src="<?php echo base_url(); ?>assets/js/home.js"></script> 
