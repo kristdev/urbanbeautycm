@@ -279,7 +279,7 @@
 			"file": "application/modules/home/views/homepage.php",
 			"settings":
 			{
-				"buffer_size": 66196,
+				"buffer_size": 66226,
 				"line_ending": "Windows"
 			}
 		}
@@ -627,8 +627,8 @@
 						"selection":
 						[
 							[
-								243,
-								243
+								225,
+								225
 							]
 						],
 						"settings":
@@ -707,15 +707,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 66196,
+						"buffer_size": 66226,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								65603,
-								65603
+								65958,
+								65958
 							]
 						],
 						"settings":
@@ -725,7 +725,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 26672.0,
+						"translation.y": 26008.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -766,7 +766,7 @@
 		"rows":
 		[
 			0.0,
-			0.5,
+			0.30173347779,
 			1.0
 		]
 	},
@@ -808,7 +808,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 229.0,
+	"side_bar_width": 289.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
